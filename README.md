@@ -4,7 +4,9 @@ Navigation app showcasing the following functionalities:
 - Different navigation controls and behaviors.
 - Dynamic data shared through a context
 
-https://github.com/leoCarrillo-BTS/RN_navegacion/assets/60411044/7d9f407b-8cfd-4f29-80c6-15e6ed11e2e3
+[VIDEO HERE](https://drive.google.com/file/d/1uKk2D6wSy0fUbFTxryxMJQ4S3pTAUDzA/view?usp=drive_link)
+
+<img width="533" alt="Screenshot 2023-10-10 at 14 28 56" src="https://github.com/leoCarrillo-BTS/RN_navegacion/assets/60411044/84b7332d-2368-4a63-b020-257e938412b0">
 
 ----
 
