@@ -1,3 +1,13 @@
+
+Navigation app showcasing the following functionalities: 
+
+- Different navigation controls and behaviors.
+- Dynamic data shared through a context
+
+https://github.com/leoCarrillo-BTS/RN_navegacion/assets/60411044/7d9f407b-8cfd-4f29-80c6-15e6ed11e2e3
+
+----
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
